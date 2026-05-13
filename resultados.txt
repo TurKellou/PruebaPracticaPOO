@@ -1,0 +1,163 @@
+REPORTE ACADEMICO DETALLADO
+====================================
+Nombre: Acosta Hanna
+Fecha: 13/05/2026
+Promedio: 5.74 | Estado: REPROBADO
+------------------------------------
+Nombre: Andrade Hugo
+Fecha: 13/05/2026
+Promedio: 7.59 | Estado: APROBADO
+------------------------------------
+Nombre: Atiencia Josue
+Fecha: 13/05/2026
+Promedio: 5.76 | Estado: REPROBADO
+------------------------------------
+Nombre: Balarrezo Diego
+Fecha: 13/05/2026
+Promedio: 6.13 | Estado: REPROBADO
+------------------------------------
+Nombre: Barrionuevo Sol
+Fecha: 13/05/2026
+Promedio: 6.44 | Estado: REPROBADO
+------------------------------------
+Nombre: Bedoya Juan
+Fecha: 13/05/2026
+Promedio: 7.00 | Estado: REPROBADO
+------------------------------------
+Nombre: Bravo Samuel
+Fecha: 13/05/2026
+Promedio: 6.22 | Estado: REPROBADO
+------------------------------------
+Nombre: Cajiao Paulo
+Fecha: 13/05/2026
+Promedio: 8.48 | Estado: APROBADO
+------------------------------------
+Nombre: Calvopina Brandon
+Fecha: 13/05/2026
+Promedio: 7.66 | Estado: APROBADO
+------------------------------------
+Nombre: Castelo Katherine
+Fecha: 13/05/2026
+Promedio: 8.33 | Estado: APROBADO
+------------------------------------
+Nombre: Chacha Victor
+Fecha: 13/05/2026
+Promedio: 5.90 | Estado: REPROBADO
+------------------------------------
+Nombre: Chiluiza Steed
+Fecha: 13/05/2026
+Promedio: 5.04 | Estado: REPROBADO
+------------------------------------
+Nombre: Dominguez Daniel
+Fecha: 13/05/2026
+Promedio: 6.37 | Estado: REPROBADO
+------------------------------------
+Nombre: Freire Alan
+Fecha: 13/05/2026
+Promedio: 7.69 | Estado: APROBADO
+------------------------------------
+Nombre: Gualle Abisag
+Fecha: 13/05/2026
+Promedio: 6.16 | Estado: REPROBADO
+------------------------------------
+Nombre: Guaman Alexander
+Fecha: 13/05/2026
+Promedio: 8.31 | Estado: APROBADO
+------------------------------------
+Nombre: Guanga Sebastian
+Fecha: 13/05/2026
+Promedio: 6.82 | Estado: REPROBADO
+------------------------------------
+Nombre: Guanotoa Karla
+Fecha: 13/05/2026
+Promedio: 6.61 | Estado: REPROBADO
+------------------------------------
+Nombre: Landeta Edison
+Fecha: 13/05/2026
+Promedio: 7.36 | Estado: APROBADO
+------------------------------------
+Nombre: Lara Karen
+Fecha: 13/05/2026
+Promedio: 6.83 | Estado: REPROBADO
+------------------------------------
+Nombre: Loor Jhon
+Fecha: 13/05/2026
+Promedio: 7.46 | Estado: APROBADO
+------------------------------------
+Nombre: Lopez Washington
+Fecha: 13/05/2026
+Promedio: 7.19 | Estado: APROBADO
+------------------------------------
+Nombre: Miranda Imanol
+Fecha: 13/05/2026
+Promedio: 5.31 | Estado: REPROBADO
+------------------------------------
+Nombre: Monar Jhair
+Fecha: 13/05/2026
+Promedio: 6.49 | Estado: REPROBADO
+------------------------------------
+Nombre: Muyulema Mateo
+Fecha: 13/05/2026
+Promedio: 9.04 | Estado: APROBADO
+------------------------------------
+Nombre: Narvaez Antonella
+Fecha: 13/05/2026
+Promedio: 6.93 | Estado: REPROBADO
+------------------------------------
+Nombre: Nunez Bryan
+Fecha: 13/05/2026
+Promedio: 6.18 | Estado: REPROBADO
+------------------------------------
+Nombre: Pilco Mario
+Fecha: 13/05/2026
+Promedio: 7.82 | Estado: APROBADO
+------------------------------------
+Nombre: Pomaquero Katherine
+Fecha: 13/05/2026
+Promedio: 7.69 | Estado: APROBADO
+------------------------------------
+Nombre: Quevedo Gina
+Fecha: 13/05/2026
+Promedio: 6.55 | Estado: REPROBADO
+------------------------------------
+Nombre: Rivadeneira Matias
+Fecha: 13/05/2026
+Promedio: 7.92 | Estado: APROBADO
+------------------------------------
+Nombre: Rocha Carolina
+Fecha: 13/05/2026
+Promedio: 5.91 | Estado: REPROBADO
+------------------------------------
+Nombre: Sanchez Isaac
+Fecha: 13/05/2026
+Promedio: 7.11 | Estado: APROBADO
+------------------------------------
+Nombre: Segovia Joseph
+Fecha: 13/05/2026
+Promedio: 7.59 | Estado: APROBADO
+------------------------------------
+Nombre: Supe Joan
+Fecha: 13/05/2026
+Promedio: 6.59 | Estado: REPROBADO
+------------------------------------
+Nombre: Toapanta Matias
+Fecha: 13/05/2026
+Promedio: 7.24 | Estado: APROBADO
+------------------------------------
+Nombre: Verdesoto Kevin
+Fecha: 13/05/2026
+Promedio: 6.86 | Estado: REPROBADO
+------------------------------------
+Nombre: Villacres Alejandro
+Fecha: 13/05/2026
+Promedio: 7.24 | Estado: APROBADO
+------------------------------------
+Nombre: Viteri Shantal
+Fecha: 13/05/2026
+Promedio: 5.95 | Estado: REPROBADO
+------------------------------------
+
+RESUMEN GENERAL DEL GRUPO
+Total Aprobados: 17
+Total Reprobados: 22
+====================================
